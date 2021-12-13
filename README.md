@@ -6,3 +6,4 @@ Reconstructing the recorded sessions in Janus
 - 
 - ### <span style="color:Red">Attention</span>
 Due to the business laws, I can't share all the codes here. If you have any questions you can ask me. Please feel free to contact me.
+![plot](./img/session.png)
